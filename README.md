@@ -1,0 +1,1 @@
+# django_SKN_GENERAL_INSURANCE
